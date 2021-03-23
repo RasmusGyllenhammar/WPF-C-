@@ -1,0 +1,15 @@
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\bin\Debug\WPFFetJueee.exe.config
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\bin\Debug\WPFFetJueee.exe
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\bin\Debug\WPFFetJueee.pdb
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\obj\Debug\WPFFetJueee.csprojAssemblyReference.cache
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\obj\Debug\MainWindow.g.cs
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\obj\Debug\App.g.cs
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\obj\Debug\WPFFetJueee_MarkupCompile.cache
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\obj\Debug\WPFFetJueee_MarkupCompile.lref
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\obj\Debug\MainWindow.baml
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\obj\Debug\WPFFetJueee.g.resources
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\obj\Debug\WPFFetJueee.Properties.Resources.resources
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\obj\Debug\WPFFetJueee.csproj.GenerateResource.cache
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\obj\Debug\WPFFetJueee.csproj.CoreCompileInputs.cache
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\obj\Debug\WPFFetJueee.exe
+C:\Users\rasmus.gyllenhammar\Documents\GitHub\WPF-C-\WPFFetJueee och flaggor\WPFFetJueee\obj\Debug\WPFFetJueee.pdb
